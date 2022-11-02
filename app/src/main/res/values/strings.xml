@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">delivery food</string>
+    <string name="food">Food</string>
+    <string name="delivery">delivery</string>
+    <string name="sign_up">Sign up</string>
+    <string name="log_in">Log in</string>
+    <string name="copy">By rachid bentraleb, you agree to our <u>teams</u> and <u>conditions</u> and <u>prtivacy polici</u></string>
+
+    <string name="user">Username</string>
+    <string name="email">Email</string>
+    <string name="gmail">gmail.com</string>
+    <string name="password">Password</string>
+    <string name="req">Required*</string>
+    <string name="forgot">Fotgot your password?</string>
+
+    <string name="welcom">Welcome!</string>
+    <string name="sing_continue">Sing in to continue</string>
+    <string name="login_continue">log in to continue</string>
+
+    <string name="checkbox">Remember me</string>
+    <string name="faceboock">faceboock</string>
+    <string name="google">google</string>
+    <string name="continue_withe">Continue withe</string>
+    <string name="have_it">Already have an account?  </string>
+
+    <string name="log_in_text"><u>Log in</u></string>
+
+</resources>
